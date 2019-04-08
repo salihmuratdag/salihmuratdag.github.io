@@ -381,7 +381,7 @@ li .description {
 }
 
 
-@media(max-width: 500px) {
+@media(max-width: 550px) {
         .skill-meta {
 max-width: 250px;
 	}
