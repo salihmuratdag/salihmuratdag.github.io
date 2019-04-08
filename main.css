@@ -386,7 +386,7 @@ li .description {
 max-width: 250px;
 	}
 .skill-meta span{ 
-font-size: 13px;
+font-size: 11px!important;
 	}
 	h1.name {
 		font-size: 40px;
