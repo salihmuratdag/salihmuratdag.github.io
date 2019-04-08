@@ -381,9 +381,9 @@ li .description {
 }
 
 
-@media(max-width: 450px) {
+@media(max-width: 550px) {
         .skill-meta {
-max-width: 150px;
+max-width: 175px;
 	}
 	h1.name {
 		font-size: 40px;
