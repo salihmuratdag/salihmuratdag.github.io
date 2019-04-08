@@ -383,7 +383,7 @@ li .description {
 
 @media(max-width: 500px) {
         .skill-meta {
-max-width: 160px;
+max-width: 260px;
 	}
 	h1.name {
 		font-size: 40px;
